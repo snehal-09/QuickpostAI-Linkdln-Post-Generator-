@@ -7,7 +7,8 @@ This tool helps students, freshers, and professionals create high-quality posts 
 ---
 
 ## 🚀 Demo  
-*(Add a screenshot or GIF of your app here)*  
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/54cce7fa-3afe-43b8-b589-c5bf428373a7" />
+
 
 ---
 
