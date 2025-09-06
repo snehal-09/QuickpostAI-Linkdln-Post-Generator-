@@ -1,7 +1,7 @@
 # QuickpostAI-(Post-Generator)
 # LinkedIn Post Generator ✨  
 
-Generate professional LinkedIn posts in seconds using **LangChain + Google Gemini API + Streamlit**.  
+Generate professional LinkedIn posts in seconds using **LangChain + GROQ API + Streamlit**.  
 This tool helps students, freshers, and professionals create high-quality posts with hooks, bullet points, and CTAs – all optimized for LinkedIn.  
 
 ---
@@ -20,7 +20,7 @@ This tool helps students, freshers, and professionals create high-quality posts 
 ## 🛠 Tech Stack  
 - **Python**  
 - **LangChain**  
-- **Google Gemini API**  
+- **Groq API**  
 - **Streamlit**  
 
 ---
@@ -31,3 +31,14 @@ This tool helps students, freshers, and professionals create high-quality posts 
 ```bash
 git clone https://github.com/your-username/linkedin-post-generator.git
 cd linkedin-post-generator
+
+2.Create and activate a virtual environment
+python -m venv venv
+source venv/bin/activate    # On Windows: venv\Scripts\activate
+
+3. Install dependencies
+pip install -r requirements.txt
+
+
+4.Add your GROQ API key in .env file
+GROQ_API_KEY=your_api_key_here
