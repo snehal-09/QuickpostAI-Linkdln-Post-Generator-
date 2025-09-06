@@ -27,8 +27,7 @@ This tool helps students, freshers, and professionals create high-quality posts 
 
 ## 📥 Installation  
 
-1. Clone this repository  
-git clone https://github.com/your-username/linkedin-post-generator.git
+1. Create a folder 
 cd linkedin-post-generator
 
 2. Create and activate a virtual environment
@@ -38,5 +37,5 @@ source venv/bin/activate    # On Windows: venv\Scripts\activate
 3. Install dependencies
 pip install -r requirements.txt
 
-4.Add your GROQ API key in .env file
+4. Add your GROQ API key in .env file
 GROQ_API_KEY=your_api_key_here
